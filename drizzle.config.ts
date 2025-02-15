@@ -8,6 +8,6 @@ export default defineConfig({
     out: "./migrations",
     dialect: "postgresql",
     dbCredentials: {
-        url: 'postgres://postgres.wbhhtrkfzagvxbrupuxx:HeXFsRqKXkQvNf7L@aws-0-us-west-1.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x'
+        url: process.env.DATABASE_URL as string
     }
 })
