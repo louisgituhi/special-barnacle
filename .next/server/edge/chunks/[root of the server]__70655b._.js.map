@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/middleware.ts"],"sourcesContent":["import { betterFetch } from \"@better-fetch/fetch\";\nimport type { auth } from \"@/lib/auth\";\nimport { NextResponse, type NextRequest } from \"next/server\";\n \ntype Session = typeof auth.$Infer.Session;\n \nexport default async function authMiddleware(request: NextRequest) {\n\tconst { data: session } = await betterFetch<Session>(\n\t\t\"/api/auth/get-session\",\n\t\t{\n\t\t\tbaseURL: request.nextUrl.origin,\n\t\t\theaders: {\n\t\t\t\t//get the cookie from the request\n\t\t\t\tcookie: request.headers.get(\"cookie\") || \"\",\n\t\t\t},\n\t\t},\n\t);\n \n\tif (!session) {\n\t\treturn NextResponse.redirect(new URL(\"/sign-in\", request.url));\n\t}\n\treturn NextResponse.next();\n}\n \nexport const config = {\n\tmatcher: [\"/dashboard\"],\n};"],"names":[],"mappings":";;;;AAAA;AAEA;AAAA;;;AAIe,eAAe,eAAe,OAAoB;IAChE,MAAM,EAAE,MAAM,OAAO,EAAE,GAAG,MAAM,CAAA,GAAA,mOAAA,CAAA,cAAW,AAAD,EACzC,yBACA;QACC,SAAS,QAAQ,OAAO,CAAC,MAAM;QAC/B,SAAS;YACR,iCAAiC;YACjC,QAAQ,QAAQ,OAAO,CAAC,GAAG,CAAC,aAAa;QAC1C;IACD;IAGD,IAAI,CAAC,SAAS;QACb,OAAO,oTAAA,CAAA,eAAY,CAAC,QAAQ,CAAC,IAAI,IAAI,YAAY,QAAQ,GAAG;IAC7D;IACA,OAAO,oTAAA,CAAA,eAAY,CAAC,IAAI;AACzB;AAEO,MAAM,SAAS;IACrB,SAAS;QAAC;KAAa;AACxB"}},
+    {"offset": {"line": 50, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

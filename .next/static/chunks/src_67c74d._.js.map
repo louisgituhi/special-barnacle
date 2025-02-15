@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///home/louis/Documents/my-rental/src/app/page.tsx"],"sourcesContent":["\"use client\"\n\nimport SignupForm from \"@/components/signup-form\"\nimport LoginForm from \"@/components/login-form\"\n\nimport { Tabs, TabsContent, TabsList, TabsTrigger } from \"@/components/ui/tabs\"\n\nexport default function AuthPage() {\n  return (\n    <div>\n      <LoginForm />\n    </div>\n    // <div className=\"min-h-screen bg-gray-100 flex items-center justify-center font-geist\">\n    //   <div className=\"max-w-md w-full mx-auto\">\n    //     <Tabs defaultValue=\"login\" className=\"w-[400px]\">\n    //       <TabsList className=\"grid w-full grid-cols-2\">\n    //         <TabsTrigger value=\"login\">Login</TabsTrigger>\n    //         <TabsTrigger value=\"signup\">Sign Up</TabsTrigger>\n    //       </TabsList>\n    //       <div className=\"mt-4 bg-white p-8 rounded-lg shadow-md\">\n    //         <TabsContent value=\"login\">\n    //           <LoginForm />\n    //         </TabsContent>\n    //         <TabsContent value=\"signup\">\n    //           <SignupForm />\n    //         </TabsContent>\n    //       </div>\n    //     </Tabs>\n    //   </div>\n    // </div>\n  )\n}"],"names":[],"mappings":";;;;AAGA;AAHA;;;AAOe,SAAS;IACtB,qBACE,4TAAC;kBACC,cAAA,4TAAC,sIAAA,CAAA,UAAS;;;;;;;;;;AAqBhB;KAxBwB"}},
+    {"offset": {"line": 43, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
