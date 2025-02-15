@@ -128,7 +128,7 @@ export default function LoginForm() {
                   Sign in with Google
                 </Button>
 
-                <Button
+                {/* <Button
                   onClick={ async () => {
                     await signIn.passkey({
                       callbackURL: "/dashboard"
@@ -138,7 +138,7 @@ export default function LoginForm() {
                     <Key className="mr-2" />
                     {loading ? <Loader2 size={16} className="animate-spin mr-2" /> : null}
                     Sign in with Passkey
-                </Button>
+                </Button> */}
 
               </div>
 
