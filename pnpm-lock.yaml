@@ -65,6 +65,9 @@ importers:
       drizzle-orm:
         specifier: ^0.39.1
         version: 0.39.1(@neondatabase/serverless@0.10.4)(@types/pg@8.11.6)(@types/react@19.0.8)(kysely@0.27.5)(postgres@3.4.5)(react@19.0.0)
+      esbuild:
+        specifier: '>=0.25.0'
+        version: 0.25.0
       lucide-react:
         specifier: ^0.474.0
         version: 0.474.0(react@19.0.0)
@@ -111,9 +114,6 @@ importers:
       drizzle-kit:
         specifier: ^0.30.4
         version: 0.30.4
-      esbuild:
-        specifier: ^0.25.0
-        version: 0.25.0
       postcss:
         specifier: ^8
         version: 8.5.1
