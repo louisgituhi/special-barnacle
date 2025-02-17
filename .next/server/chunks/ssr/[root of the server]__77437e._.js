@@ -208,22 +208,22 @@ var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_
 __turbopack_esm__({
     "auth": (()=>auth)
 });
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$module__evaluation$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.15/node_modules/better-auth/dist/index.js [app-rsc] (ecmascript) <module evaluation>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$module__evaluation$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.17/node_modules/better-auth/dist/index.js [app-rsc] (ecmascript) <module evaluation>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$database$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/database/db.ts [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$adapters$2f$drizzle$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.15/node_modules/better-auth/dist/adapters/drizzle.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$plugins$2f$passkey$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$module__evaluation$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.15/node_modules/better-auth/dist/plugins/passkey.js [app-rsc] (ecmascript) <module evaluation>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$adapters$2f$drizzle$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.17/node_modules/better-auth/dist/adapters/drizzle.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$plugins$2f$passkey$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$module__evaluation$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.17/node_modules/better-auth/dist/plugins/passkey.js [app-rsc] (ecmascript) <module evaluation>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$database$2f$schema$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/database/schema.ts [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$next$2d$js$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.15/node_modules/better-auth/dist/next-js.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.15/node_modules/better-auth/dist/index.js [app-rsc] (ecmascript) <locals>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$plugins$2f$passkey$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.15/node_modules/better-auth/dist/plugins/passkey.js [app-rsc] (ecmascript) <locals>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$next$2d$js$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.17/node_modules/better-auth/dist/next-js.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.17/node_modules/better-auth/dist/index.js [app-rsc] (ecmascript) <locals>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$plugins$2f$passkey$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/better-auth@1.1.17/node_modules/better-auth/dist/plugins/passkey.js [app-rsc] (ecmascript) <locals>");
 ;
 ;
 ;
 ;
 ;
 ;
-const auth = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__["betterAuth"])({
-    database: (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$adapters$2f$drizzle$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["drizzleAdapter"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$database$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"], {
+const auth = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__["betterAuth"])({
+    database: (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$adapters$2f$drizzle$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["drizzleAdapter"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$database$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"], {
         provider: "pg",
         schema: {
             user: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$database$2f$schema$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__.user,
@@ -238,12 +238,13 @@ const auth = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f
         enabled: true
     },
     plugins: [
-        (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$plugins$2f$passkey$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__["passkey"])({
+        (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$plugins$2f$passkey$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__["passkey"])({
             rpID: "localhost",
+            // rpID: "https://special-barnacle-8w2w6svql-louisgituhis-projects.vercel.app", // prod
             rpName: "myrental-auth",
             origin: "http://localhost:3000"
         }),
-        (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$15$2f$node_modules$2f$better$2d$auth$2f$dist$2f$next$2d$js$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["nextCookies"])()
+        (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$better$2d$auth$40$1$2e$1$2e$17$2f$node_modules$2f$better$2d$auth$2f$dist$2f$next$2d$js$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["nextCookies"])()
     ]
 });
 }}),

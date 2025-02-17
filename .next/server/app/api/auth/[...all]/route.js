@@ -2,7 +2,7 @@ const CHUNK_PUBLIC_PATH = "server/app/api/auth/[...all]/route.js";
 const runtime = require("../../../../chunks/[turbopack]_runtime.js");
 runtime.loadChunk("server/chunks/a7abb_next_7007e7._.js");
 runtime.loadChunk("server/chunks/cdf59_zod_lib_index_mjs_c12735._.js");
-runtime.loadChunk("server/chunks/c25e0_better-auth_dist_2e0328._.js");
+runtime.loadChunk("server/chunks/a371a_better-auth_dist_395764._.js");
 runtime.loadChunk("server/chunks/a49ca_jose_dist_node_esm_c12f93._.js");
 runtime.loadChunk("server/chunks/6d50d_kysely_dist_esm_093fdc._.js");
 runtime.loadChunk("server/chunks/65b01_drizzle-orm_67cc47._.js");

@@ -22,8 +22,8 @@ export const auth = betterAuth({
     },
     plugins: [
         passkey({
-            // rpID: "localhost", // localhost
-            rpID: "https://special-barnacle-8w2w6svql-louisgituhis-projects.vercel.app", // prod
+            rpID: "localhost", // localhost
+            // rpID: "https://special-barnacle-8w2w6svql-louisgituhis-projects.vercel.app", // prod
             rpName: "myrental-auth",
             origin: "http://localhost:3000",
         }),
