@@ -20,8 +20,14 @@ pnpm run dev
 
 create an env.local file at the root of your directory
 
+```
 BETTER_AUTH_SECRET=
+```
+```
 BETTER_AUTH_URL= #Base URL of your app
+```
+```
 SUPABASE_URL=''
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
