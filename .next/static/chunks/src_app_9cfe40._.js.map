@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/louis/Documents/my-rental/src/app/landing-page/page.tsx"],"sourcesContent":["\"use client\"\nexport default function LandinPage() {\n    return (\n        <div>\n            <h1>The landing page goes here :)</h1>\n        </div>\n    )\n}"],"names":[],"mappings":";;;;AAAA;;AACe,SAAS;IACpB,qBACI,4TAAC;kBACG,cAAA,4TAAC;sBAAG;;;;;;;;;;;AAGhB;KANwB"}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///home/louis/Documents/my-rental/src/app/page.tsx"],"sourcesContent":["\"use client\"\nimport LandinPage from \"./landing-page/page\"\n// import LoginForm from \"@/components/login-form\"\n\nexport default function AuthPage() {\n  return (\n    <div>\n      <LandinPage />\n      {/* <LoginForm /> */}\n    </div>\n  )\n}"],"names":[],"mappings":";;;;AACA;AADA;;;AAIe,SAAS;IACtB,qBACE,4TAAC;kBACC,cAAA,4TAAC,yIAAA,CAAA,UAAU;;;;;;;;;;AAIjB;KAPwB"}},
+    {"offset": {"line": 67, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
